@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 🔭 I’m currently working on open source<br>👯 I’m looking to collaborate on full-stack and web3 projects<br>🤝 I’m looking for help with good open-source repos to contribute<br>🌱 I’m currently learning Full-stack web dev<br>⚡ Fact -Trying to change the web with my own stack 😎
 
 
@@ -19,6 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Soham-glitch&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Soham-glitch&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
